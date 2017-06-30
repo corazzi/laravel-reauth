@@ -1,0 +1,19 @@
+{
+  "name": "corazzi/laravel-reauth",
+  "description": "Reauthenticate users using middleware",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Corazzi\\LaravelReauth\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sacha Corazzi",
+      "email": "sacha.corazzi@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
